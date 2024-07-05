@@ -1,1 +1,1 @@
-# kolko_i_krzyzyk
+# Kółko i Krzyżyk
